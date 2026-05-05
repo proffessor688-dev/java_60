@@ -1,7 +1,8 @@
 import java.util.*;
 
 class MathsUtils {
-    public static boolean Prime(int num) {
+    public static boolean 
+    Prime(int num) {
         if (num < 2) {
             return false;
         }
